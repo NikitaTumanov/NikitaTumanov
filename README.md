@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitatumanov" alt="nikitatumanov" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **bigredbear37@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
