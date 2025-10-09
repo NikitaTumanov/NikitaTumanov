@@ -1,4 +1,4 @@
-# Hi there, I'm Nikita Tumanov ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi there, I'm Nikita Tumanov 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Golang+Backend-Developer)](https://git.io/typing-svg)
 
@@ -39,3 +39,9 @@
   </tr>
 </table>
 </div>
+
+## Last projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Terminal-Task-Tracker&theme=dark)](https://github.com/NikitaTumanov/Terminal-Task-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=SDH-Calculator&theme=dark)](https://github.com/NikitaTumanov/SDH-Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Transactional-System&theme=dark)](https://github.com/NikitaTumanov/Transactional-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Musical-Puzzle&theme=dark)](https://github.com/NikitaTumanov/Musical-Puzzle)
