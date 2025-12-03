@@ -13,27 +13,27 @@
 ## My skills
 <div align="center">
 <table>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>OS</strong></td>
     <td><img src="https://skillicons.dev/icons?i=debian,ubuntu,windows" /></td>
   </tr>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>Backend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=go,java,maven,spring,python" /></td>
   </tr>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>Frontend</strong></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap" /></td>
   </tr>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>DBMS</strong></td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" /></td>
   </tr>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>Orchestrators</strong></td>
     <td><img src="https://skillicons.dev/icons?i=docker,kubernetes" /></td>
   </tr>
-  <tr valign="middle">
+  <tr align="middle">
     <td><strong>Game Dev</strong></td>
     <td><img src="https://skillicons.dev/icons?i=unity" /></td>
   </tr>
