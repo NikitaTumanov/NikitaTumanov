@@ -39,9 +39,3 @@
   </tr>
 </table>
 </div>
-
-## Last projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Terminal-Task-Tracker&theme=dark)](https://github.com/NikitaTumanov/Terminal-Task-Tracker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=SDH-Calculator&theme=dark)](https://github.com/NikitaTumanov/SDH-Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Transactional-System-Java-PostgreSQL&theme=dark)](https://github.com/NikitaTumanov/Transactional-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikitaTumanov&repo=Musical-Puzzle&theme=dark)](https://github.com/NikitaTumanov/Musical-Puzzle)
