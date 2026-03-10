@@ -8,7 +8,7 @@
 *   💻  I mainly develop client-server applications.
 *   🎒  I am currently transitioning from Java to Golang.
 *   🏫  I hold several patents for computer programs in the field of medicine written in the [VBA Excel](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2022666730&TypeFile=html) and [Java](https://www1.fips.ru/fips_servl/fips_servlet?DB=EVM&DocNumber=2025680673&TypeFile=html).
-*   ✉️  You can contact me at [toomuchick@gmail.com](mailto:toomuchick@gmail.com)
+*   ✉️  You can contact me at [toomuchick@gmail.com](mailto:toomuchick@gmail.com) or [TooMuchick](https://t.me/TooMuchick)
 
 ## My skills
 <div align="center">
